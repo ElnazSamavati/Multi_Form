@@ -18,7 +18,7 @@ namespace Multi_forms
             InitializeComponent();
             sf.pf = this;
         }
-
+        
         private void PayForm_FormClosing(object sender, FormClosingEventArgs e)
         {
             this.Hide();
@@ -29,5 +29,10 @@ namespace Multi_forms
             sf.textBox1.Text = "";
             sf.Show();
         }
+        public void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
     }
 }

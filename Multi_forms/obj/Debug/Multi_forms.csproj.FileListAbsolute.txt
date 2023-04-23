@@ -10,3 +10,17 @@ C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.pdb
 C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.Form1.resources
 C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.PayForm.resources
 C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.SearchForm.resources
+D:\C# Code\Multi_Form\Multi_forms\bin\Debug\Multi_forms.exe.config
+D:\C# Code\Multi_Form\Multi_forms\bin\Debug\Multi_forms.exe
+D:\C# Code\Multi_Form\Multi_forms\bin\Debug\Multi_forms.pdb
+D:\C# Code\Multi_Form\Multi_forms\obj\Debug\Multi_forms.csproj.AssemblyReference.cache
+D:\C# Code\Multi_Form\Multi_forms\obj\Debug\Multi_forms.csproj.SuggestedBindingRedirects.cache
+D:\C# Code\Multi_Form\Multi_forms\obj\Debug\Multi_forms.Form1.resources
+D:\C# Code\Multi_Form\Multi_forms\obj\Debug\Multi_forms.PayForm.resources
+D:\C# Code\Multi_Form\Multi_forms\obj\Debug\Multi_forms.Properties.Resources.resources
+D:\C# Code\Multi_Form\Multi_forms\obj\Debug\Multi_forms.SearchForm.resources
+D:\C# Code\Multi_Form\Multi_forms\obj\Debug\Multi_forms.csproj.GenerateResource.cache
+D:\C# Code\Multi_Form\Multi_forms\obj\Debug\Multi_forms.csproj.CoreCompileInputs.cache
+D:\C# Code\Multi_Form\Multi_forms\obj\Debug\Multi_forms.exe
+D:\C# Code\Multi_Form\Multi_forms\obj\Debug\Multi_forms.pdb
+D:\C# Code\Multi_Form\Multi_forms\obj\Debug\Multi_forms.Form2.resources
